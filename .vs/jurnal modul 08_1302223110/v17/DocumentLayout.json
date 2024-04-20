@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59CAE53A-5A1A-4DF3-A64F-FA138B6F5685}|jurnal modul 08_1302223110\\jurnal modul 08_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\jurnal mod 08\\jurnal mod 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59CAE53A-5A1A-4DF3-A64F-FA138B6F5685}|jurnal modul 08_1302223110\\jurnal modul 08_1302223110.csproj|E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59CAE53A-5A1A-4DF3-A64F-FA138B6F5685}|jurnal modul 08_1302223110\\jurnal modul 08_1302223110.csproj|solutionrelative:jurnal modul 08_1302223110\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CAE53A-5A1A-4DF3-A64F-FA138B6F5685}|jurnal modul 08_1302223110\\jurnal modul 08_1302223110.csproj|e:\\programming\\project\\kuliah\\kpl\\jurnal mod 08\\jurnal mod 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CAE53A-5A1A-4DF3-A64F-FA138B6F5685}|jurnal modul 08_1302223110\\jurnal modul 08_1302223110.csproj|solutionrelative:jurnal modul 08_1302223110\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "bank_transfer_config.json",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\bank_transfer_config.json",
+              "RelativeToolTip": "bank_transfer_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T00:49:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "jurnal modul 08_1302223110\\BankTransferConfig.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\BankTransferConfig.cs",
+              "RelativeToolTip": "jurnal modul 08_1302223110\\BankTransferConfig.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAIwH8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:45:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\Program.cs",
               "RelativeDocumentMoniker": "jurnal modul 08_1302223110\\Program.cs",
               "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\Jurnal Mod 08\\Jurnal MOD 08_1302223110\\jurnal modul 08_1302223110\\jurnal modul 08_1302223110\\Program.cs",
               "RelativeToolTip": "jurnal modul 08_1302223110\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T00:42:23.9Z",
               "EditorCaption": ""

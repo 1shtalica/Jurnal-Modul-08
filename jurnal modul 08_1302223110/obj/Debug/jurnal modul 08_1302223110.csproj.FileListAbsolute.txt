@@ -1,0 +1,10 @@
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\obj\Debug\jurnal modul 08_1302223110.csproj.AssemblyReference.cache
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\obj\Debug\jurnal modul 08_1302223110.csproj.CoreCompileInputs.cache
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\bin\Debug\jurnal modul 08_1302223110.exe.config
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\bin\Debug\jurnal modul 08_1302223110.exe
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\bin\Debug\jurnal modul 08_1302223110.pdb
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\obj\Debug\jurnal m.9618221D.Up2Date
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\obj\Debug\jurnal modul 08_1302223110.exe
+E:\Programming\Project\Kuliah\KPL\Jurnal Mod 08\Jurnal MOD 08_1302223110\jurnal modul 08_1302223110\jurnal modul 08_1302223110\obj\Debug\jurnal modul 08_1302223110.pdb

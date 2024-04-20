@@ -1,0 +1,17 @@
+{
+
+	"lang": "en",
+
+	"transfer": {
+		"high_fee": 15000,
+		"low_fee": 6500,
+		"threshold": 25000000
+	},
+
+	"methods": [ "RTO", "(real-time)", "SKN", "RTGS", "BI", "FAST" ],
+	
+	"confirmation": {
+		"en": "yes",
+		"id": "ya"
+	}
+}
